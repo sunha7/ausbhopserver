@@ -20,3 +20,5 @@ beyond this, github search is very good.
 rip bhop, best of luck to anyone who tries to continue
 
 i may upload more replays overtime but don't count on it, if you remember a record that you had and would like it to be uploaded your best bet is to message me on discord
+
+shoutout gcg for having all this and not hosting an aussie server even though i prewarned about costs and gave viable solutions. 2vcpu 2gb ram is plenty, the thing needed most for bhop is the map storage space if you want to keep all 2-3k maps without cycling through them. Do what you can to focus on cpu performance with linux governors - we were able to get our var down from about 0.080 to a very consistent <0.010.
